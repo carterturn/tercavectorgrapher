@@ -1,0 +1,79 @@
+;;; README --- Terca Vector Grapher
+Version 0.5
+
+This is an extremely simple
+program that graphs vectors
+given on the command line
+and displays them while allowing
+rotation and zooming.
+Was mostly done for a math
+project.
+
+Contact
+=======
+
+As our website currently does not have a domain name, we
+are unable to register email addresses. For now, you can
+comment on the Github page.
+
+Reporting Bugs
+==============
+
+This version is not expected to be bug free, so please do
+not report bugs yet.
+
+Installing
+==========
+
+make
+
+
+Running
+=======
+
+Open a shell:
+
+tercagrapher [x,y,z] ...
+
+where x, y, and z are floats
+
+Libraries
+=========
+
+Terca Grapher also uses the Terca C++ Vector library.
+This library can be found on the TercaTech Github
+near this program.
+
+Documentation
+=============
+
+For now, this is the documentation. Eventually, more
+will be written
+
+License
+=======
+
+Copyright 2015 Carter Turnbaugh
+
+This file is part of Terca Vector Grapher.
+
+Terca Vector Grapher is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Terca Vector Grapher is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Terca Vector Grapher.  If not, see <http://www.gnu.org/licenses/>.
+
+Known Issues
+============
+
+There are no known issues, but there is also no known
+testing.
+
+;;; README ends here
